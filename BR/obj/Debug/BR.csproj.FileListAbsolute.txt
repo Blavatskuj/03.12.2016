@@ -1,0 +1,34 @@
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.exe.config
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\MainWindow.baml
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\MainWindow.g.cs
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\App.g.cs
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR_MarkupCompile.cache
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.g.resources
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.exe
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.pdb
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.exe
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.pdb
+C:\BR\BR\bin\Debug\BR.exe.config
+C:\BR\BR\obj\Debug\BR.exe
+C:\BR\BR\obj\Debug\BR.pdb
+D:\Zfolder\BR\BR\bin\Debug\BR.exe.config
+D:\Zfolder\BR\BR\obj\Debug\BR.exe
+D:\Zfolder\BR\BR\obj\Debug\BR.pdb
+D:\Zfolder\BR\BR\bin\Debug\BR.exe
+D:\Zfolder\BR\BR\bin\Debug\BR.pdb
+D:\Zfolder\BR\BR\obj\Debug\BR.csprojResolveAssemblyReference.cache
+D:\Zfolder\BR\BR\obj\Debug\MainWindow.baml
+D:\Zfolder\BR\BR\obj\Debug\MainWindow.g.cs
+D:\Zfolder\BR\BR\obj\Debug\App.g.cs
+D:\Zfolder\BR\BR\obj\Debug\BR_MarkupCompile.cache
+D:\Zfolder\BR\BR\obj\Debug\BR.g.resources
+D:\Zfolder\BR\BR\obj\Debug\BR.Properties.Resources.resources
+D:\Zfolder\BR\BR\obj\Debug\BR.csproj.GenerateResource.Cache
+D:\Zfolder\BR\BR\bin\Debug\Mono.Security.dll
+D:\Zfolder\BR\BR\bin\Debug\Npgsql.dll
+C:\Users\Roman\Desktop\Новая папка\BR\BR\bin\Debug\BR.exe.config
+C:\Users\Roman\Desktop\Новая папка\BR\BR\obj\Debug\BR.exe
+C:\Users\Roman\Desktop\Новая папка\BR\BR\obj\Debug\BR.pdb
